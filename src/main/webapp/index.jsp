@@ -7,7 +7,8 @@
 <body>
 <h2>Hello World!</h2>
 
-<div style="border-bottom-color: red; width: 100px; height: 100px;"> </div>
-<a>提交成功</a>
+
+<a href="#">提交成功</a>
+<div> 修改后的maven</div>
 </body>
 </html>
